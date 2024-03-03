@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohitsah12
+- 👋 Hi, I’m ROHIT SAH
 - 👀 I’m interested in DATA SCIENCE/AI/ML/DSA
 - 🌱 I’m currently learning DATA SCIENCE AND AI
 - 💞️ I’m looking to collaborate on DATA SCIENCE PROJECTS
