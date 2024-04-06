@@ -2,8 +2,6 @@
 <h3 align="center">I am a Student and Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsah12&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsah12" /> </p>
-
-
 - 🌱 I’m currently learning **Computer Science and AI**
 
 - 👨‍💻 All of my projects are available at [rohitsah.vercel.app](rohitsah.vercel.app)
